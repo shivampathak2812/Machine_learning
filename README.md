@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 This repository contains structured, end-to-end Machine Learning projects focused on model optimization, feature engineering, and performance improvement.
 
@@ -60,7 +58,8 @@ The optimized model explains **83% of the variance** in housing prices.
 - NumPy  
 - Pandas  
 - Scikit-learn  
-- Matplotlib  
+- Matplotlib
+- OpenML
 
 ---
 
